@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Costa</h1>
 <h3 align="center">Fullstack developer <3</h3>
+
+wanna see my work? check out my portfolio
 <h3>https://miguelcostagap.github.io/limbo-s-gap/</h3>
 - 📫 How to reach me **miguelcostagap@gmail.com**
 
