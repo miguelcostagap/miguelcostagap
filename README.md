@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack developer <3</h3>
 <p></p>
   <p></p>
-<p align="center">wanna see my work? check out my portfolio </p>
+<p align="center">wanna see my work?</p>
 <h3 align="center">https://miguelcostagap.github.io/limbo-s-gap/</h3>
 <p></p>
 <h3 align="left">Connect with me:</h3>
